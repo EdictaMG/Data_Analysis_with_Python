@@ -25,17 +25,18 @@ On the other hand, the company's Board is worried about offering aggressive disc
 - **Presentation:** slides used for a 5 minute presentation on position regarding discounts as well as briefly data quality
 - **Schemas:** schemas of original (raw) data files, cleaned data files and merged tables
 
-## Tools and language used
-- Python script with libraries (Pandas, Numpy, Matplotlib, Seaborn)
-- Google Colab for notebooks
-- Google Drive
-
-## Retracing my process
+## Using the files
 - Save data files and notebooks to Google Drive
 - Update urls (and reference file/table names) in all Colab notebooks (first section of each notebook) so that link is made to where files were actually saved
 - To be able to access each data file in Google Drive, must copy file link with sharing rights (editor)
 
+## Languages and Libraries Used
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
 
-
-
-
+## Tools used
+- Google Colab (or Jupyter) for notebooks
+- Google Drive
