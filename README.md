@@ -31,11 +31,11 @@ On the other hand, the company's Board is worried about offering aggressive disc
 - To be able to access each data file in Google Drive, must copy file link with sharing rights (editor)
 
 ## Languages and Libraries Used
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
+- Python (3.10.12)
+- Pandas (2.2.2)
+- Numpy (1.26.4)
+- Matplotlib (3.8.0)
+- Seaborn (0.13.2)
 
 ## Tools used
 - Google Colab (or Jupyter) for notebooks
