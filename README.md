@@ -16,7 +16,7 @@ On the other hand, the company's Board is worried about offering aggressive disc
 **data**
 - **Eniac_raw_data:** raw data files
 - **Eniac_clean_data:** cleaned data files
-- **Eniac_merged_tables:** **selection of cleaned data files (tables) merged
+- **Eniac_merged_tables:** selection of cleaned data files (tables) merged
 
 **scripts**
 - **Eniac_data_exploration:** notebooks exploring the raw data files
