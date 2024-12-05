@@ -13,19 +13,19 @@ On the one hand, the company's Marketing Team Lead believes discounts are benefi
 On the other hand, the company's Board is worried about offering aggressive discounts.  The recent quarterly results showed an increase in orders placed, but a decrease in total revenue.  They prefer that the company positions itself in the quality segment rather than competing to offer the lowes prices in the market.
 
 ## Files
-**data**
+**Data**
 - **Eniac_raw_data:** raw data files
 - **Eniac_clean_data:** cleaned data files
 - **Eniac_merged_tables:** selection of cleaned data files (tables) merged
 
-**scripts**
+**Scripts**
 - **Eniac_data_exploration:** notebooks exploring the raw data files
 - **Eniac_exploration_cleaning:** notebook further exploring data, cleaning and filtering
 - **Eniac_category_creation:** notebook exploring and assigning sub-categories and categories to products
 - **Eniac_analyses:** notebook analysing the data to answer business questions
 - **Eniac_data_development:** notebook tracing data cleaning process (start to end data size)
 
-**documentation**
+**Documentation**
 - **Eniac_data_column_description:** description of each column in the original (raw) data files
 - **Eniac_presentation:** slides used for a 5 minute presentation on position regarding discounts as well as briefly data quality
 - **Eniac_schemas:** schemas of original (raw) data files, cleaned data files and merged tables
