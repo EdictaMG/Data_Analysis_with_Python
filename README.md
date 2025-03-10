@@ -6,11 +6,11 @@ I sought to answer the following two questions:
 2. **Secondary question:** How could data collection be improved?
 
 ## Situation
-Eniac is a Europe-based company that sells tech products and accessories.  The company has an ongoing debate on whether or not it is beneficial to discount products.
+Eniac is an Europe-based company that sells tech products and accessories.  The company has an ongoing debate on whether or not it is beneficial to discount products.
 
-On the one hand, the company's Marketing Team Lead believes discounts are beneficial in the long-run and that discounts improve customer acquisition, satisfcation and retention, and allow the company to grow.
+On the one hand, the company's Marketing Team Lead believes discounts are beneficial in the long-run and that discounts improve customer acquisition, satisfaction and retention, and allow the company to grow.
 
-On the other hand, the company's Board is worried about offering aggressive discounts.  The recent quarterly results showed an increase in orders placed, but a decrease in total revenue.  They prefer that the company positions itself in the quality segment rather than competing to offer the lowes prices in the market.
+On the other hand, the company's Board is worried about offering aggressive discounts.  The recent quarterly results showed an increase in orders placed, but a decrease in total revenue.  They prefer that the company positions itself in the quality segment rather than competing to offer the lowest prices in the market.
 
 ## Files
 **Data**
