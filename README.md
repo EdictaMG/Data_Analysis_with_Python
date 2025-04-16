@@ -1,47 +1,54 @@
-# Business strategy on discounts
-This repository documents a project working with raw data, cleaning and checking data for quality, and conducting analyses for a final recommendation to a fictive company Board.
+# Business Strategy on Discounts
 
-I sought to answer the following two questions:
-1. **Primary question:** Is it beneficial to the business' strategy to discount products?
-2. **Secondary question:** How could data collection be improved?
+This repository documents a project where I work with raw data, clean and validate it for quality, and perform analyses to provide a final recommendation for a fictitious company Board.
+
+The main questions I aimed to answer were:
+
+1. **Primary question:** Is it beneficial for the business strategy to discount products?
+2. **Secondary question:** How can data collection processes be improved?
 
 ## Situation
-Eniac is an Europe-based company that sells tech products and accessories.  The company has an ongoing debate on whether or not it is beneficial to discount products.
 
-On the one hand, the company's Marketing Team Lead believes discounts are beneficial in the long-run and that discounts improve customer acquisition, satisfaction and retention, and allow the company to grow.
+Eniac is a Europe-based company that sells tech products and accessories. The company is currently debating whether offering discounts on products is beneficial to its overall business strategy.
 
-On the other hand, the company's Board is worried about offering aggressive discounts.  The recent quarterly results showed an increase in orders placed, but a decrease in total revenue.  They prefer that the company positions itself in the quality segment rather than competing to offer the lowest prices in the market.
+On one side, the Marketing Team Lead believes that discounts are a valuable tool for long-term growth. They argue that discounts improve customer acquisition, satisfaction, and retention, all of which help drive the company's expansion.
+
+On the other side, the Board is concerned about the potential downsides of aggressive discounting. While recent quarterly results show an increase in orders, there was a corresponding decrease in total revenue. The Board prefers the company to position itself in the higher-quality market segment, rather than competing on price alone.
 
 ## Files
-**Data**
-- **Eniac_raw_data:** raw data files
-- **Eniac_clean_data:** cleaned data files
-- **Eniac_merged_tables:** selection of cleaned data files (tables) merged
 
-**Scripts**
-- **Eniac_data_exploration:** notebooks exploring the raw data files
-- **Eniac_exploration_cleaning:** notebook further exploring data, cleaning and filtering
-- **Eniac_category_creation:** notebook exploring and assigning sub-categories and categories to products
-- **Eniac_analyses:** notebook analysing the data to answer business questions
-- **Eniac_data_development:** notebook tracing data cleaning process (start to end data size)
+### Data
+- **Eniac_raw_data**: Raw data files.
+- **Eniac_clean_data**: Cleaned data files.
+- **Eniac_merged_tables**: Merged cleaned data files (tables).
 
-**Documentation**
-- **Eniac_data_column_description:** description of each column in the original (raw) data files
-- **Eniac_presentation:** slides used for a 5 minute presentation on position regarding discounts as well as briefly data quality
-- **Eniac_schemas:** schemas of original (raw) data files, cleaned data files and merged tables
+### Scripts
+- **Eniac_data_exploration**: Notebook exploring the raw data files.
+- **Eniac_exploration_cleaning**: Notebook that further explores the data, including cleaning and filtering steps.
+- **Eniac_category_creation**: Notebook where products are assigned to sub-categories and categories.
+- **Eniac_analyses**: Notebook analyzing the data to answer the business questions.
+- **Eniac_data_development**: Notebook documenting the data cleaning process (from start to end).
 
-## Using the files
-- Save data files and notebooks to Google Drive
-- Update urls (and reference file/table names) in all Colab notebooks (first section of each notebook) so that link is made to where files were actually saved
-- To be able to access each data file in Google Drive, must copy file link with sharing rights (editor)
+### Documentation
+- **Eniac_data_column_description**: Descriptions for each column in the original (raw) data files.
+- **Eniac_presentation**: Slides used for a 5-minute presentation on the company's position regarding discounts, as well as a brief overview of data quality.
+- **Eniac_schemas**: Schemas showing the structure of the original (raw) data files, cleaned data files, and merged tables.
+
+## Using the Files
+
+1. Save the data files and notebooks to your **Google Drive** (or locally if preferred).
+2. Update the URLs and file/table names in all Colab notebooks (in the first section of each notebook) to link to the location where you’ve saved the files.
+3. To access the data files in Google Drive, make sure the links include **editor** access rights.
 
 ## Languages and Libraries Used
-- Python (3.10.12)
-- Pandas (2.2.2)
-- Numpy (1.26.4)
-- Matplotlib (3.8.0)
-- Seaborn (0.13.2)
 
-## Tools used
-- Google Colab (or Jupyter) for notebooks
-- Google Drive
+- **Python** (3.10.12)
+- **Pandas** (2.2.2)
+- **Numpy** (1.26.4)
+- **Matplotlib** (3.8.0)
+- **Seaborn** (0.13.2)
+
+## Tools Used
+
+- **Google Colab** (or Jupyter) for running notebooks.
+- **Google Drive** for storing data and notebooks.
